@@ -1,6 +1,6 @@
 {
   "localizedName": "Romana (RO)",
-  "pluginVersion": "2.1.7",
+  "pluginVersion": "3.0.0",
   "authors": "BaxAndrei",
   "generalNotAuthenticated": "Nu esti inregistrat sau esti deja conectat!",
   "generalNotLoggedIn": "Momentan nu esti autentificat!",
@@ -36,5 +36,10 @@
   "kickAlreadyOnline": "Acest jucator este deja conectat!",
   "kickUsernameChars": "Numele tau contine caractere nepermise!",
   "kickUsernameLength": "Numele tau este prea lung sau prea scurt! (Numele trebuie sa aiba minim %min% sau maxim %max%.)",
-  "kickTimeOut": "Timp de autentificare expirat! Va rugam sa reincercati."
+  "kickTimeOut": "Timp de autentificare expirat! Va rugam sa reincercati.",
+  "unregisterSuccess": "Ti-ai sters contul cu succes!",
+  "unregisterFail": "Contul tau nu a fost sters deoarece parola introdusa este incorecta!",
+  "messageRegister2": "Te rog sa te inregistrezi folosind /register <parola> <confirmare-parola>",
+  "errorMatchPassword": "Parolele introduse nu se potrivesc, te rugam sa reincerci.",
+  "lacChangedPassword": "Parola utilizatorului a fost modificata cu succes!"
 }
